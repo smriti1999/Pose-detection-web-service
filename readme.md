@@ -1,21 +1,7 @@
-# Assignment 1 – FIT5225  
+# Objective:  
 **Creating and Deploying an Image Object Detection Web Service within a Containerised Environment in Clouds**
 
-## Student Details
-- **Name**: Smriti Singh  
-- **Student ID**: 34274227  
-- **Tutor**: Jay Zhao
-
----
-
-## 🎥 Video Demonstration  
-A full 8-minute walkthrough of the architecture, Docker container, Kubernetes setup, and Locust testing. 
-
-
-**Watch here**:  
-https://drive.google.com/file/d/1za5oF3YiHj1KfvKNz1o7zExNUEN48jwa/view?usp=sharing 
-
-
+Details
 
 The deployed FastAPI endpoints for human pose estimation:
 
@@ -34,3 +20,4 @@ You can test these endpoints using a POST request with a JSON payload like:
   "id": "your-uuid-here",
   "image": "base64-encoded-jpeg-image"
 }
+
